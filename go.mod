@@ -1,4 +1,4 @@
-module github.com/Nizar-MC-full/go_dup
+module github.com/Nizar-MC-full/go_do
 
 go 1.20
 
